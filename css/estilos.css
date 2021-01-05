@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color:black;
     text-align: center;
     font-family:  "Arial";
@@ -13,23 +14,29 @@ body
 {
 
     width: 70%;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    padding: 1cm;
+    box-shadow: 0px 2px 20px 0px gray;
+    padding: 0cm;
     text-align: left;
-    border: 1px solid blue;
+    border: 1px solid gray;
     margin: 0 auto;
+    margin-top: 1cm;
+
 }
 #cabecera 
 {   
-    color:white;
+    color: black;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     font-size: 50px;
     font-weight: bold;
-    background-color: rgb(82, 82, 236) ;
+    background-color: #f4f3f3 ;
     border: 1px solid gray;
     padding: 1px;
 }
-
+#cabecera #logo
+{
+    width: 70px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -44,5 +51,14 @@ body
 
 #post
 {
+    background: white;
     padding: 1em;
+}
+
+#footer 
+{
+background-color: gray;
+color: white; 
+text-align: center;
+ padding: 5px;
 }
