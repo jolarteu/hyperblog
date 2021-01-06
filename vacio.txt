@@ -5,11 +5,7 @@ ya casi 22 :(
 con un gran futuro.
 
 Prueba
-<<<<<<< HEAD
-prueba2
-=======
 experimento1
 experimento2
 
->>>>>>> 997574d (experimento 1)
 OPEN SOURCE
